@@ -13,7 +13,7 @@ public class Main {
             System.out.print("Digite a opção desejada: ");
             int opcao = input.nextInt();
 
-            switch (opcao) {cd 
+            switch (opcao) { 
                 case 1:
                     System.out.println("Saldo disponível: R$" + saldo);
                     break;
